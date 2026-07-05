@@ -91,9 +91,5 @@
       "brace-expansion@>=2": ">=2.0.2"
     }
   },
-  "engines": {
-    "pnpm": ">=9.4.0",
-    "node": ">=20"
-  },
   "packageManager": "pnpm@11.3.0"
 }
